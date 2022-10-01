@@ -33,3 +33,11 @@ Cloud providers offer backup and disaster recovery features. Storing data in the
 QNO#4Difference b/w Git & Github
 
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+QNo#5 Stages of Git
+Files in a repository go through three stages before being under version control with git:
+
+Untracked: the file exists, but is not part of git's version control
+Staged: the file has been added to git's version control but changes have not been committed
+Committed: the change has been committed
+Git-status is used to understand what stage the files in a repository are at.
