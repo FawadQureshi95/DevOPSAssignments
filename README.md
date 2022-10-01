@@ -28,4 +28,8 @@ Despite popular perceptions, cloud computing can actually strengthen your securi
 Reputable cloud providers also hire top security experts and employ the most advanced solutions, providing more robust protection. 
 
 Data loss prevention
-Cloud providers offer backup and disaster recovery features. Storing data in the cloud rather than locally can help prevent data loss in the event of an emergency, such as hardware malfunction, malicious threats, or even simple user error. 
+Cloud providers offer backup and disaster recovery features. Storing data in the cloud rather than locally can help prevent data loss in the event of an emergency, such as hardware malfunction, malicious threats, or even simple user error.
+
+QNO#4Difference b/w Git & Github
+
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
