@@ -41,3 +41,7 @@ Untracked: the file exists, but is not part of git's version control
 Staged: the file has been added to git's version control but changes have not been committed
 Committed: the change has been committed
 Git-status is used to understand what stage the files in a repository are at.
+QNO6 3 methods of git reset?
+soft: only changes HEAD, but doesn’t change staged files in index or working files.
+mixed: moves HEAD and updates the index with the contents of the revision to which HEAD now points.
+hard: moves HEAD and updates the index and working directory—this is the only version of reset that can cause data loss.
